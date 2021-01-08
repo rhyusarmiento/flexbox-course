@@ -10,10 +10,10 @@ body {
   border: 10px solid red;
   display: flex;
   justify-content: center;
-  align-items: center;
 }
 
 .container > .img-blocks {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
